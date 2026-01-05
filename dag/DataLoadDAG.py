@@ -102,3 +102,5 @@ start_loading_data >> create_data_table
 create_data_table >> check_loaded_data
 
 check_loaded_data >> finish_pipeline
+
+
